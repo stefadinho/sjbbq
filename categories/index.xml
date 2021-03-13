@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Smokey Johnny</title>
-    <link>https://menziess.github.io/barbeque/categories/</link>
+    <link>https://demo-smokeyjohnny.netlify.app/categories/</link>
     <description>Recent content in Categories on Smokey Johnny</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jstavenuiter@quicknet.nl (John)</managingEditor>
     <webMaster>jstavenuiter@quicknet.nl (John)</webMaster>
     
-	<atom:link href="https://menziess.github.io/barbeque/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://demo-smokeyjohnny.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
