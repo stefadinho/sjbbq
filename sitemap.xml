@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.smokeyjohnny.nl/</loc>
-    <lastmod>2021-03-14T22:49:08+01:00</lastmod>
+    <lastmod>2021-12-05T15:13:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,28 +54,18 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/aflaksaus/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/african-rub/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/basic-rub/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.smokeyjohnny.nl/products/bavette/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/bbq-rub/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+    <loc>https://www.smokeyjohnny.nl/products/bbq-pakket-deluxe/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/bbq-pakket-populair/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +79,21 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/black-angus-kogelbiefstuk/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/black-angus-picanha/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/black-angus-ribeye/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/borrel-pakket/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
@@ -99,23 +104,18 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/carpaccio-rollade/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/carpaccio-rolletjes/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/chicken-rub/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/cotedeboeuf/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/de-hele-lijn-6-rubs-en-4-marinades/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+    <loc>https://www.smokeyjohnny.nl/products/c%C3%B4te-de-boeuf/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -134,17 +134,12 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/entrecote-rollade/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/filetrollade/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/flesje-americain-grill-saus/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/flesje-beensaus/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
@@ -159,6 +154,11 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/gegaarde-kip-kluifjes/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/gevuld-stokbrood/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
@@ -166,6 +166,16 @@
   <url>
     <loc>https://www.smokeyjohnny.nl/products/gourmet-schotel/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/grillworst/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/grillworst-met-kaas/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -199,8 +209,13 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/kippendijen-filet/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+    <loc>https://www.smokeyjohnny.nl/products/kippendijen-filet-gemarineerd/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/kippendijen-filet-ongemarineerd/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -209,8 +224,18 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/kogelbiefstuk/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/magere-runderlapjes/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/products/mini-beenham/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -224,18 +249,8 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/pakket-deluxe/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/pakket-populair/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/peper-zout-marinade/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+    <loc>https://www.smokeyjohnny.nl/products/ossenhaasspies/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -269,7 +284,7 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/runderburgers/</loc>
+    <loc>https://www.smokeyjohnny.nl/products/rundergehakt/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
@@ -279,22 +294,7 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/sensation-marinade/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.smokeyjohnny.nl/products/shortrib/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/smeer-het-er-up/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/smokey-johnny/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
@@ -314,17 +314,17 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/spare-ribs-extra-dik/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/speklapjes-gekruid/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.smokeyjohnny.nl/products/speklapjes-ongekruid/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smokeyjohnny.nl/products/spicey-bbq/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
   
@@ -359,6 +359,11 @@
   </url>
   
   <url>
+    <loc>https://www.smokeyjohnny.nl/products/varkenshaas-sat%C3%A9/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.smokeyjohnny.nl/products/varkenshaas-zonder-ketting/</loc>
     <lastmod>2021-03-13T20:13:28+01:00</lastmod>
   </url>
@@ -369,8 +374,8 @@
   </url>
   
   <url>
-    <loc>https://www.smokeyjohnny.nl/products/zij-lende-kogelbiefstuk/</loc>
-    <lastmod>2021-03-13T20:13:28+01:00</lastmod>
+    <loc>https://www.smokeyjohnny.nl/products/zijlende-kogelbiefstuk/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -380,12 +385,17 @@
   
   <url>
     <loc>https://www.smokeyjohnny.nl/page/assortiment/</loc>
-    <lastmod>2021-03-14T22:49:08+01:00</lastmod>
+    <lastmod>2021-12-05T15:13:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.smokeyjohnny.nl/page/bestellen/</loc>
     <lastmod>2021-02-18T21:36:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.smokeyjohnny.nl/page/black-angus/</loc>
+    <lastmod>2021-12-05T15:13:47+01:00</lastmod>
   </url>
   
   <url>
@@ -409,7 +419,7 @@
   
   <url>
     <loc>https://www.smokeyjohnny.nl/page/</loc>
-    <lastmod>2021-03-14T22:49:08+01:00</lastmod>
+    <lastmod>2021-12-05T15:13:47+01:00</lastmod>
   </url>
   
   <url>
